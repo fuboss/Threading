@@ -4,3 +4,5 @@ D:\Games\PlariumTest\PlariumTest\obj\Debug\PlariumTest.pdb
 D:\Games\PlariumTest\PlariumTest\bin\Debug\ThreadTest.exe.config
 D:\Games\PlariumTest\PlariumTest\bin\Debug\Threadштп.exe.config
 D:\Games\PlariumTest\PlariumTest\bin\Debug\Threading.exe.config
+D:\Games\Threading\PlariumTest\bin\Debug\Threading.exe.config
+D:\Games\Threading\Threading\bin\Debug\Threading.exe.config
