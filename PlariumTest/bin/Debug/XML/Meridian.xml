@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Hierarchy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Meridian</Name>
+  <CreationTime>10.03.2016</CreationTime>
+  <ModificationTime>10.03.2016</ModificationTime>
+  <AccessTime>10.03.2016</AccessTime>
+  <Attributes>Directory</Attributes>
+  <Size>NotImplemented</Size>
+  <Owner>BUILTIN\Администраторы</Owner>
+  <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+  <Files />
+  <SubDirectories>
+    <Directory>
+      <Name>Logs</Name>
+      <CreationTime>10.03.2016</CreationTime>
+      <ModificationTime>29.04.2016</ModificationTime>
+      <AccessTime>29.04.2016</AccessTime>
+      <Attributes>Directory</Attributes>
+      <Size>NotImplemented</Size>
+      <Owner>BUILTIN\Администраторы</Owner>
+      <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+      <Files>
+        <File>
+          <Name>2016-03-10.log</Name>
+          <CreationTime>10.03.2016</CreationTime>
+          <ModificationTime>10.03.2016</ModificationTime>
+          <AccessTime>10.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>BUILTIN\Администраторы</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-03-15.log</Name>
+          <CreationTime>15.03.2016</CreationTime>
+          <ModificationTime>15.03.2016</ModificationTime>
+          <AccessTime>15.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-03-16.log</Name>
+          <CreationTime>16.03.2016</CreationTime>
+          <ModificationTime>16.03.2016</ModificationTime>
+          <AccessTime>16.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-03-21.log</Name>
+          <CreationTime>21.03.2016</CreationTime>
+          <ModificationTime>21.03.2016</ModificationTime>
+          <AccessTime>21.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,01MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-03-28.log</Name>
+          <CreationTime>28.03.2016</CreationTime>
+          <ModificationTime>28.03.2016</ModificationTime>
+          <AccessTime>28.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-03-29.log</Name>
+          <CreationTime>29.03.2016</CreationTime>
+          <ModificationTime>29.03.2016</ModificationTime>
+          <AccessTime>29.03.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-04-21.log</Name>
+          <CreationTime>21.04.2016</CreationTime>
+          <ModificationTime>21.04.2016</ModificationTime>
+          <AccessTime>21.04.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-04-25.log</Name>
+          <CreationTime>25.04.2016</CreationTime>
+          <ModificationTime>25.04.2016</ModificationTime>
+          <AccessTime>25.04.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-04-26.log</Name>
+          <CreationTime>26.04.2016</CreationTime>
+          <ModificationTime>26.04.2016</ModificationTime>
+          <AccessTime>26.04.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,02MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-04-27.log</Name>
+          <CreationTime>27.04.2016</CreationTime>
+          <ModificationTime>27.04.2016</ModificationTime>
+          <AccessTime>27.04.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,04MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+        <File>
+          <Name>2016-04-29.log</Name>
+          <CreationTime>29.04.2016</CreationTime>
+          <ModificationTime>29.04.2016</ModificationTime>
+          <AccessTime>29.04.2016</AccessTime>
+          <Attributes>Archive</Attributes>
+          <Size>0,00MB</Size>
+          <Owner>DESKTOP-6R583O5\Swarley</Owner>
+          <Rights>NT AUTHORITY\СИСТЕМА:FullControl,BUILTIN\Администраторы:FullControl,DESKTOP-6R583O5\Swarley:FullControl,</Rights>
+        </File>
+      </Files>
+      <SubDirectories />
+    </Directory>
+  </SubDirectories>
+</Hierarchy>
